@@ -8,6 +8,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         This is Linode One Testing env this is {data}
         <section>Hello second sentence</section>
+        <section>Hello third sentence</section>
       </main>
     </div>
   );
